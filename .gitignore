@@ -1,0 +1,25 @@
+# 默认忽略根目录下所有内容，只白名单放行以下条目
+*
+!/.gitignore
+!/README.md
+!/*.mp4
+
+# 贺报工程（源码）：先放行目录本身，再放行全部内容
+!/hebao-remotion/
+!/hebao-remotion/**
+# 工程内部排除
+hebao-remotion/node_modules/
+hebao-remotion/.npmcache/
+hebao-remotion/out/
+hebao-remotion/out-bundle/
+hebao-remotion/studio-out/
+
+# 成片交付目录
+!/贺报-通用版-200/
+!/贺报-通用版-200/**
+!/贺报-通用版-115/
+!/贺报-通用版-115/**
+!/贺报-通用版-65/
+!/贺报-通用版-65/**
+!/贺报输出/
+!/贺报输出/**
