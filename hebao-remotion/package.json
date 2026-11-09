@@ -1,0 +1,29 @@
+{
+  "name": "hebao-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "泰康养老业绩贺报 · Remotion 版（1080x1920 / 30fps / 8s）",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still",
+    "typecheck": "tsc --noEmit",
+    "make": "node tools/studio.mjs",
+    "content": "node tools/extract_content.mjs"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "^5.3.1",
+    "@fontsource/noto-serif-sc": "^5.3.1",
+    "@fontsource/oswald": "^5.3.0",
+    "@remotion/cli": "4.0.540",
+    "@remotion/motion-blur": "^4.0.540",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.7.2"
+  }
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "u01",
+    "name": "极光·巨字",
+    "skin": "aurora",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u02",
+    "name": "极光·星环",
+    "skin": "aurora",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u03",
+    "name": "极光·深空",
+    "skin": "aurora",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u04",
+    "name": "极光·星榜",
+    "skin": "aurora",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u05",
+    "name": "极光·极昼",
+    "skin": "aurora",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u06",
+    "name": "铬·镜面",
+    "skin": "chrome",
+    "layout": "hero",
+    "accent": 2
+  },
+  {
+    "id": "u07",
+    "name": "铬·金属肖像",
+    "skin": "chrome",
+    "layout": "portrait",
+    "accent": 1
+  },
+  {
+    "id": "u08",
+    "name": "铬·重量",
+    "skin": "chrome",
+    "layout": "metric",
+    "accent": 2
+  },
+  {
+    "id": "u09",
+    "name": "铬·镀铬榜",
+    "skin": "chrome",
+    "layout": "list",
+    "accent": 1
+  },
+  {
+    "id": "u10",
+    "name": "铬·锻造",
+    "skin": "chrome",
+    "layout": "story",
+    "accent": 2
+  },
+  {
+    "id": "u11",
+    "name": "霓虹·电路",
+    "skin": "neon",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u12",
+    "name": "霓虹·夜行",
+    "skin": "neon",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u13",
+    "name": "霓虹·脉冲",
+    "skin": "neon",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u14",
+    "name": "霓虹·街头榜",
+    "skin": "neon",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u15",
+    "name": "霓虹·赛博纪",
+    "skin": "neon",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u16",
+    "name": "黑白·高定",
+    "skin": "noir",
+    "layout": "hero",
+    "accent": 2
+  },
+  {
+    "id": "u17",
+    "name": "黑白·特写",
+    "skin": "noir",
+    "layout": "portrait",
+    "accent": 1
+  },
+  {
+    "id": "u18",
+    "name": "黑白·极简数",
+    "skin": "noir",
+    "layout": "metric",
+    "accent": 2
+  },
+  {
+    "id": "u19",
+    "name": "黑白·名人录",
+    "skin": "noir",
+    "layout": "list",
+    "accent": 1
+  },
+  {
+    "id": "u20",
+    "name": "黑白·纪事",
+    "skin": "noir",
+    "layout": "story",
+    "accent": 2
+  },
+  {
+    "id": "u21",
+    "name": "酸性·爆破",
+    "skin": "acid",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u22",
+    "name": "酸性·贴纸",
+    "skin": "acid",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u23",
+    "name": "酸性·数字炸弹",
+    "skin": "acid",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u24",
+    "name": "酸性·街头榜",
+    "skin": "acid",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u25",
+    "name": "酸性·切片",
+    "skin": "acid",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u26",
+    "name": "金线·殿堂",
+    "skin": "deco",
+    "layout": "hero",
+    "accent": 2
+  },
+  {
+    "id": "u27",
+    "name": "金线·徽章",
+    "skin": "deco",
+    "layout": "portrait",
+    "accent": 1
+  },
+  {
+    "id": "u28",
+    "name": "金线·鎏金数",
+    "skin": "deco",
+    "layout": "metric",
+    "accent": 2
+  },
+  {
+    "id": "u29",
+    "name": "金线·名门榜",
+    "skin": "deco",
+    "layout": "list",
+    "accent": 1
+  },
+  {
+    "id": "u30",
+    "name": "金线·年代",
+    "skin": "deco",
+    "layout": "story",
+    "accent": 2
+  },
+  {
+    "id": "u31",
+    "name": "动能·极速",
+    "skin": "kinetic",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u32",
+    "name": "动能·登场",
+    "skin": "kinetic",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u33",
+    "name": "动能·冲刺",
+    "skin": "kinetic",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u34",
+    "name": "动能·竞速榜",
+    "skin": "kinetic",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u35",
+    "name": "动能·加速度",
+    "skin": "kinetic",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u36",
+    "name": "竞技·夺冠",
+    "skin": "stadium",
+    "layout": "hero",
+    "accent": 2
+  },
+  {
+    "id": "u37",
+    "name": "竞技·MVP",
+    "skin": "stadium",
+    "layout": "portrait",
+    "accent": 1
+  },
+  {
+    "id": "u38",
+    "name": "竞技·战报",
+    "skin": "stadium",
+    "layout": "metric",
+    "accent": 2
+  },
+  {
+    "id": "u39",
+    "name": "竞技·联赛榜",
+    "skin": "stadium",
+    "layout": "list",
+    "accent": 1
+  },
+  {
+    "id": "u40",
+    "name": "竞技·赛季",
+    "skin": "stadium",
+    "layout": "story",
+    "accent": 2
+  },
+  {
+    "id": "u41",
+    "name": "全息·镭射",
+    "skin": "holo",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u42",
+    "name": "全息·未来偶像",
+    "skin": "holo",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u43",
+    "name": "全息·幻彩数",
+    "skin": "holo",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u44",
+    "name": "全息·星云榜",
+    "skin": "holo",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u45",
+    "name": "全息·时间褶",
+    "skin": "holo",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u46",
+    "name": "水墨·东方",
+    "skin": "ink",
+    "layout": "hero",
+    "accent": 2
+  },
+  {
+    "id": "u47",
+    "name": "水墨·立传",
+    "skin": "ink",
+    "layout": "portrait",
+    "accent": 1
+  },
+  {
+    "id": "u48",
+    "name": "水墨·留白",
+    "skin": "ink",
+    "layout": "metric",
+    "accent": 2
+  },
+  {
+    "id": "u49",
+    "name": "水墨·群英谱",
+    "skin": "ink",
+    "layout": "list",
+    "accent": 1
+  },
+  {
+    "id": "u50",
+    "name": "水墨·山水",
+    "skin": "ink",
+    "layout": "story",
+    "accent": 2
+  },
+  {
+    "id": "u51",
+    "name": "孔版·海报",
+    "skin": "riso",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u52",
+    "name": "孔版·套色",
+    "skin": "riso",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u53",
+    "name": "孔版·印刷数",
+    "skin": "riso",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u54",
+    "name": "孔版·独立榜",
+    "skin": "riso",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u55",
+    "name": "孔版·小志",
+    "skin": "riso",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u56",
+    "name": "电影·片头",
+    "skin": "cinema",
+    "layout": "hero",
+    "accent": 2
+  },
+  {
+    "id": "u57",
+    "name": "电影·登场",
+    "skin": "cinema",
+    "layout": "portrait",
+    "accent": 1
+  },
+  {
+    "id": "u58",
+    "name": "电影·票房",
+    "skin": "cinema",
+    "layout": "metric",
+    "accent": 2
+  },
+  {
+    "id": "u59",
+    "name": "电影·演职员",
+    "skin": "cinema",
+    "layout": "list",
+    "accent": 1
+  },
+  {
+    "id": "u60",
+    "name": "电影·三幕",
+    "skin": "cinema",
+    "layout": "story",
+    "accent": 2
+  },
+  {
+    "id": "u61",
+    "name": "玻璃·清透",
+    "skin": "glass",
+    "layout": "hero",
+    "accent": 1
+  },
+  {
+    "id": "u62",
+    "name": "玻璃·光斑",
+    "skin": "glass",
+    "layout": "portrait",
+    "accent": 2
+  },
+  {
+    "id": "u63",
+    "name": "玻璃·透数",
+    "skin": "glass",
+    "layout": "metric",
+    "accent": 1
+  },
+  {
+    "id": "u64",
+    "name": "玻璃·浮榜",
+    "skin": "glass",
+    "layout": "list",
+    "accent": 2
+  },
+  {
+    "id": "u65",
+    "name": "玻璃·折射",
+    "skin": "glass",
+    "layout": "story",
+    "accent": 1
+  },
+  {
+    "id": "u66",
+    "name": "极光·勋章",
+    "skin": "aurora",
+    "layout": "medal",
+    "accent": 1
+  },
+  {
+    "id": "u67",
+    "name": "动能·勋章",
+    "skin": "kinetic",
+    "layout": "medal",
+    "accent": 2
+  },
+  {
+    "id": "u68",
+    "name": "铬·证书",
+    "skin": "chrome",
+    "layout": "cert",
+    "accent": 1
+  },
+  {
+    "id": "u69",
+    "name": "竞技·证书",
+    "skin": "stadium",
+    "layout": "cert",
+    "accent": 2
+  },
+  {
+    "id": "u70",
+    "name": "霓虹·竖轴",
+    "skin": "neon",
+    "layout": "vaxis",
+    "accent": 1
+  },
+  {
+    "id": "u71",
+    "name": "全息·竖轴",
+    "skin": "holo",
+    "layout": "vaxis",
+    "accent": 2
+  },
+  {
+    "id": "u72",
+    "name": "黑白·倒计",
+    "skin": "noir",
+    "layout": "countdown",
+    "accent": 1
+  },
+  {
+    "id": "u73",
+    "name": "水墨·倒计",
+    "skin": "ink",
+    "layout": "countdown",
+    "accent": 2
+  },
+  {
+    "id": "u74",
+    "name": "酸性·金句",
+    "skin": "acid",
+    "layout": "quote",
+    "accent": 1
+  },
+  {
+    "id": "u75",
+    "name": "孔版·金句",
+    "skin": "riso",
+    "layout": "quote",
+    "accent": 2
+  },
+  {
+    "id": "u76",
+    "name": "金线·拼贴",
+    "skin": "deco",
+    "layout": "collage",
+    "accent": 1
+  },
+  {
+    "id": "u77",
+    "name": "电影·拼贴",
+    "skin": "cinema",
+    "layout": "collage",
+    "accent": 2
+  },
+  {
+    "id": "u78",
+    "name": "动能·斜切",
+    "skin": "kinetic",
+    "layout": "diag",
+    "accent": 1
+  },
+  {
+    "id": "u79",
+    "name": "玻璃·斜切",
+    "skin": "glass",
+    "layout": "diag",
+    "accent": 2
+  },
+  {
+    "id": "u80",
+    "name": "竞技·胶片",
+    "skin": "stadium",
+    "layout": "film",
+    "accent": 1
+  },
+  {
+    "id": "u81",
+    "name": "极光·胶片",
+    "skin": "aurora",
+    "layout": "film",
+    "accent": 2
+  },
+  {
+    "id": "u82",
+    "name": "全息·字幕条",
+    "skin": "holo",
+    "layout": "bcast",
+    "accent": 1
+  },
+  {
+    "id": "u83",
+    "name": "铬·字幕条",
+    "skin": "chrome",
+    "layout": "bcast",
+    "accent": 2
+  },
+  {
+    "id": "u84",
+    "name": "水墨·图表",
+    "skin": "ink",
+    "layout": "chart",
+    "accent": 1
+  },
+  {
+    "id": "u85",
+    "name": "霓虹·图表",
+    "skin": "neon",
+    "layout": "chart",
+    "accent": 2
+  },
+  {
+    "id": "u86",
+    "name": "孔版·票根",
+    "skin": "riso",
+    "layout": "ticket",
+    "accent": 1
+  },
+  {
+    "id": "u87",
+    "name": "黑白·票根",
+    "skin": "noir",
+    "layout": "ticket",
+    "accent": 2
+  },
+  {
+    "id": "u88",
+    "name": "电影·灯箱",
+    "skin": "cinema",
+    "layout": "marquee",
+    "accent": 1
+  },
+  {
+    "id": "u89",
+    "name": "金线·灯箱",
+    "skin": "deco",
+    "layout": "marquee",
+    "accent": 2
+  },
+  {
+    "id": "u90",
+    "name": "玻璃·头版",
+    "skin": "glass",
+    "layout": "press",
+    "accent": 1
+  },
+  {
+    "id": "u91",
+    "name": "动能·头版",
+    "skin": "kinetic",
+    "layout": "press",
+    "accent": 2
+  },
+  {
+    "id": "u92",
+    "name": "极光·追光",
+    "skin": "aurora",
+    "layout": "light",
+    "accent": 1
+  },
+  {
+    "id": "u93",
+    "name": "竞技·追光",
+    "skin": "stadium",
+    "layout": "light",
+    "accent": 2
+  },
+  {
+    "id": "u94",
+    "name": "铬·登顶",
+    "skin": "chrome",
+    "layout": "ascent",
+    "accent": 1
+  },
+  {
+    "id": "u95",
+    "name": "霓虹·登顶",
+    "skin": "neon",
+    "layout": "ascent",
+    "accent": 2
+  },
+  {
+    "id": "u96",
+    "name": "竞技·数字塔",
+    "skin": "stadium",
+    "layout": "tower",
+    "accent": 1
+  },
+  {
+    "id": "u97",
+    "name": "全息·数字塔",
+    "skin": "holo",
+    "layout": "tower",
+    "accent": 2
+  },
+  {
+    "id": "u98",
+    "name": "水墨·双环",
+    "skin": "ink",
+    "layout": "rings",
+    "accent": 1
+  },
+  {
+    "id": "u99",
+    "name": "孔版·双环",
+    "skin": "riso",
+    "layout": "rings",
+    "accent": 2
+  },
+  {
+    "id": "u100",
+    "name": "电影·弹幕",
+    "skin": "cinema",
+    "layout": "ticker",
+    "accent": 1
+  },
+  {
+    "id": "u101",
+    "name": "酸性·弹幕",
+    "skin": "acid",
+    "layout": "ticker",
+    "accent": 2
+  },
+  {
+    "id": "u102",
+    "name": "玻璃·领奖台",
+    "skin": "glass",
+    "layout": "podium",
+    "accent": 1
+  },
+  {
+    "id": "u103",
+    "name": "极光·领奖台",
+    "skin": "aurora",
+    "layout": "podium",
+    "accent": 2
+  },
+  {
+    "id": "u104",
+    "name": "金线·盖章",
+    "skin": "deco",
+    "layout": "stamp",
+    "accent": 1
+  },
+  {
+    "id": "u105",
+    "name": "动能·盖章",
+    "skin": "kinetic",
+    "layout": "stamp",
+    "accent": 2
+  },
+  {
+    "id": "u106",
+    "name": "黑白·揭幕",
+    "skin": "noir",
+    "layout": "tear",
+    "accent": 1
+  },
+  {
+    "id": "u107",
+    "name": "竞技·揭幕",
+    "skin": "stadium",
+    "layout": "tear",
+    "accent": 2
+  },
+  {
+    "id": "u108",
+    "name": "全息·点灯",
+    "skin": "holo",
+    "layout": "lights",
+    "accent": 1
+  },
+  {
+    "id": "u109",
+    "name": "铬·点灯",
+    "skin": "chrome",
+    "layout": "lights",
+    "accent": 2
+  },
+  {
+    "id": "u110",
+    "name": "水墨·星图",
+    "skin": "ink",
+    "layout": "stars",
+    "accent": 1
+  },
+  {
+    "id": "u111",
+    "name": "电影·星图",
+    "skin": "cinema",
+    "layout": "stars",
+    "accent": 2
+  },
+  {
+    "id": "u112",
+    "name": "孔版·门格",
+    "skin": "riso",
+    "layout": "bento",
+    "accent": 1
+  },
+  {
+    "id": "u113",
+    "name": "霓虹·门格",
+    "skin": "neon",
+    "layout": "bento",
+    "accent": 2
+  },
+  {
+    "id": "u114",
+    "name": "电影·声浪",
+    "skin": "cinema",
+    "layout": "wave",
+    "accent": 1
+  },
+  {
+    "id": "u115",
+    "name": "玻璃·声浪",
+    "skin": "glass",
+    "layout": "wave",
+    "accent": 2
+  },
+  {
+    "id": "u116",
+    "name": "极光·证件",
+    "skin": "aurora",
+    "layout": "passport",
+    "accent": 1
+  },
+  {
+    "id": "u117",
+    "name": "全息·证件",
+    "skin": "holo",
+    "layout": "passport",
+    "accent": 2
+  },
+  {
+    "id": "u118",
+    "name": "霓虹·蓝图",
+    "skin": "neon",
+    "layout": "blueprint",
+    "accent": 1
+  },
+  {
+    "id": "u119",
+    "name": "孔版·蓝图",
+    "skin": "riso",
+    "layout": "blueprint",
+    "accent": 2
+  },
+  {
+    "id": "u120",
+    "name": "酸性·账本",
+    "skin": "acid",
+    "layout": "ledger",
+    "accent": 1
+  },
+  {
+    "id": "u121",
+    "name": "玻璃·账本",
+    "skin": "glass",
+    "layout": "ledger",
+    "accent": 2
+  },
+  {
+    "id": "u122",
+    "name": "动能·磁带",
+    "skin": "kinetic",
+    "layout": "cassette",
+    "accent": 1
+  },
+  {
+    "id": "u123",
+    "name": "铬·磁带",
+    "skin": "chrome",
+    "layout": "cassette",
+    "accent": 2
+  },
+  {
+    "id": "u124",
+    "name": "全息·电报",
+    "skin": "holo",
+    "layout": "telegram",
+    "accent": 1
+  },
+  {
+    "id": "u125",
+    "name": "黑白·电报",
+    "skin": "noir",
+    "layout": "telegram",
+    "accent": 2
+  },
+  {
+    "id": "u126",
+    "name": "孔版·日历",
+    "skin": "riso",
+    "layout": "calendar",
+    "accent": 1
+  },
+  {
+    "id": "u127",
+    "name": "金线·日历",
+    "skin": "deco",
+    "layout": "calendar",
+    "accent": 2
+  },
+  {
+    "id": "u128",
+    "name": "玻璃·横轴",
+    "skin": "glass",
+    "layout": "timeline",
+    "accent": 1
+  },
+  {
+    "id": "u129",
+    "name": "竞技·横轴",
+    "skin": "stadium",
+    "layout": "timeline",
+    "accent": 2
+  },
+  {
+    "id": "u130",
+    "name": "铬·轨道",
+    "skin": "chrome",
+    "layout": "orbit",
+    "accent": 1
+  },
+  {
+    "id": "u131",
+    "name": "水墨·轨道",
+    "skin": "ink",
+    "layout": "orbit",
+    "accent": 2
+  },
+  {
+    "id": "u132",
+    "name": "黑白·绶带",
+    "skin": "noir",
+    "layout": "ribbon",
+    "accent": 1
+  },
+  {
+    "id": "u133",
+    "name": "电影·绶带",
+    "skin": "cinema",
+    "layout": "ribbon",
+    "accent": 2
+  },
+  {
+    "id": "u134",
+    "name": "金线·卷轴",
+    "skin": "deco",
+    "layout": "banner",
+    "accent": 1
+  },
+  {
+    "id": "u135",
+    "name": "极光·卷轴",
+    "skin": "aurora",
+    "layout": "banner",
+    "accent": 2
+  },
+  {
+    "id": "u136",
+    "name": "竞技·柱阵",
+    "skin": "stadium",
+    "layout": "bars",
+    "accent": 1
+  },
+  {
+    "id": "u137",
+    "name": "霓虹·柱阵",
+    "skin": "neon",
+    "layout": "bars",
+    "accent": 2
+  },
+  {
+    "id": "u138",
+    "name": "水墨·雷达",
+    "skin": "ink",
+    "layout": "radar",
+    "accent": 1
+  },
+  {
+    "id": "u139",
+    "name": "酸性·雷达",
+    "skin": "acid",
+    "layout": "radar",
+    "accent": 2
+  },
+  {
+    "id": "u140",
+    "name": "电影·仪表",
+    "skin": "cinema",
+    "layout": "gauge",
+    "accent": 1
+  },
+  {
+    "id": "u141",
+    "name": "动能·仪表",
+    "skin": "kinetic",
+    "layout": "gauge",
+    "accent": 2
+  },
+  {
+    "id": "u142",
+    "name": "极光·进度",
+    "skin": "aurora",
+    "layout": "steps",
+    "accent": 1
+  },
+  {
+    "id": "u143",
+    "name": "全息·进度",
+    "skin": "holo",
+    "layout": "steps",
+    "accent": 2
+  },
+  {
+    "id": "u144",
+    "name": "霓虹·记分",
+    "skin": "neon",
+    "layout": "scoreboard",
+    "accent": 1
+  },
+  {
+    "id": "u145",
+    "name": "孔版·记分",
+    "skin": "riso",
+    "layout": "scoreboard",
+    "accent": 2
+  },
+  {
+    "id": "u146",
+    "name": "酸性·翻牌",
+    "skin": "acid",
+    "layout": "flip",
+    "accent": 1
+  },
+  {
+    "id": "u147",
+    "name": "玻璃·翻牌",
+    "skin": "glass",
+    "layout": "flip",
+    "accent": 2
+  },
+  {
+    "id": "u148",
+    "name": "动能·小票",
+    "skin": "kinetic",
+    "layout": "docket",
+    "accent": 1
+  },
+  {
+    "id": "u149",
+    "name": "铬·小票",
+    "skin": "chrome",
+    "layout": "docket",
+    "accent": 2
+  },
+  {
+    "id": "u150",
+    "name": "全息·信封",
+    "skin": "holo",
+    "layout": "envelope",
+    "accent": 1
+  },
+  {
+    "id": "u151",
+    "name": "黑白·信封",
+    "skin": "noir",
+    "layout": "envelope",
+    "accent": 2
+  },
+  {
+    "id": "u152",
+    "name": "孔版·旗帜",
+    "skin": "riso",
+    "layout": "flag",
+    "accent": 1
+  },
+  {
+    "id": "u153",
+    "name": "金线·旗帜",
+    "skin": "deco",
+    "layout": "flag",
+    "accent": 2
+  },
+  {
+    "id": "u154",
+    "name": "玻璃·拱门",
+    "skin": "glass",
+    "layout": "arch",
+    "accent": 1
+  },
+  {
+    "id": "u155",
+    "name": "竞技·拱门",
+    "skin": "stadium",
+    "layout": "arch",
+    "accent": 2
+  },
+  {
+    "id": "u156",
+    "name": "铬·灯笼",
+    "skin": "chrome",
+    "layout": "lantern",
+    "accent": 1
+  },
+  {
+    "id": "u157",
+    "name": "水墨·灯笼",
+    "skin": "ink",
+    "layout": "lantern",
+    "accent": 2
+  },
+  {
+    "id": "u158",
+    "name": "黑白·折扇",
+    "skin": "noir",
+    "layout": "fan",
+    "accent": 1
+  },
+  {
+    "id": "u159",
+    "name": "电影·折扇",
+    "skin": "cinema",
+    "layout": "fan",
+    "accent": 2
+  },
+  {
+    "id": "u160",
+    "name": "金线·墨迹",
+    "skin": "deco",
+    "layout": "ink",
+    "accent": 1
+  },
+  {
+    "id": "u161",
+    "name": "极光·墨迹",
+    "skin": "aurora",
+    "layout": "ink",
+    "accent": 2
+  },
+  {
+    "id": "u162",
+    "name": "竞技·马赛",
+    "skin": "stadium",
+    "layout": "mosaic",
+    "accent": 1
+  },
+  {
+    "id": "u163",
+    "name": "霓虹·马赛",
+    "skin": "neon",
+    "layout": "mosaic",
+    "accent": 2
+  },
+  {
+    "id": "u164",
+    "name": "水墨·故障",
+    "skin": "ink",
+    "layout": "glitch",
+    "accent": 1
+  },
+  {
+    "id": "u165",
+    "name": "酸性·故障",
+    "skin": "acid",
+    "layout": "glitch",
+    "accent": 2
+  },
+  {
+    "id": "u166",
+    "name": "电影·灯管",
+    "skin": "cinema",
+    "layout": "neon",
+    "accent": 1
+  },
+  {
+    "id": "u167",
+    "name": "动能·灯管",
+    "skin": "kinetic",
+    "layout": "neon",
+    "accent": 2
+  },
+  {
+    "id": "u168",
+    "name": "极光·追光",
+    "skin": "aurora",
+    "layout": "spotlight",
+    "accent": 1
+  },
+  {
+    "id": "u169",
+    "name": "全息·追光",
+    "skin": "holo",
+    "layout": "spotlight",
+    "accent": 2
+  },
+  {
+    "id": "u170",
+    "name": "霓虹·幕布",
+    "skin": "neon",
+    "layout": "curtain",
+    "accent": 1
+  },
+  {
+    "id": "u171",
+    "name": "孔版·幕布",
+    "skin": "riso",
+    "layout": "curtain",
+    "accent": 2
+  },
+  {
+    "id": "u172",
+    "name": "酸性·分屏",
+    "skin": "acid",
+    "layout": "split",
+    "accent": 1
+  },
+  {
+    "id": "u173",
+    "name": "玻璃·分屏",
+    "skin": "glass",
+    "layout": "split",
+    "accent": 2
+  },
+  {
+    "id": "u174",
+    "name": "动能·倒影",
+    "skin": "kinetic",
+    "layout": "mirror",
+    "accent": 1
+  },
+  {
+    "id": "u175",
+    "name": "铬·倒影",
+    "skin": "chrome",
+    "layout": "mirror",
+    "accent": 2
+  },
+  {
+    "id": "u176",
+    "name": "全息·叠卡",
+    "skin": "holo",
+    "layout": "stack",
+    "accent": 1
+  },
+  {
+    "id": "u177",
+    "name": "黑白·叠卡",
+    "skin": "noir",
+    "layout": "stack",
+    "accent": 2
+  },
+  {
+    "id": "u178",
+    "name": "孔版·横卡",
+    "skin": "riso",
+    "layout": "carousel",
+    "accent": 1
+  },
+  {
+    "id": "u179",
+    "name": "金线·横卡",
+    "skin": "deco",
+    "layout": "carousel",
+    "accent": 2
+  },
+  {
+    "id": "u180",
+    "name": "玻璃·放大镜",
+    "skin": "glass",
+    "layout": "magnifier",
+    "accent": 1
+  },
+  {
+    "id": "u181",
+    "name": "竞技·放大镜",
+    "skin": "stadium",
+    "layout": "magnifier",
+    "accent": 2
+  },
+  {
+    "id": "u182",
+    "name": "铬·相框墙",
+    "skin": "chrome",
+    "layout": "wall",
+    "accent": 1
+  },
+  {
+    "id": "u183",
+    "name": "水墨·相框墙",
+    "skin": "ink",
+    "layout": "wall",
+    "accent": 2
+  },
+  {
+    "id": "u184",
+    "name": "黑白·铭牌",
+    "skin": "noir",
+    "layout": "plaque",
+    "accent": 1
+  },
+  {
+    "id": "u185",
+    "name": "电影·铭牌",
+    "skin": "cinema",
+    "layout": "plaque",
+    "accent": 2
+  },
+  {
+    "id": "u186",
+    "name": "金线·奖杯",
+    "skin": "deco",
+    "layout": "trophy",
+    "accent": 1
+  },
+  {
+    "id": "u187",
+    "name": "极光·奖杯",
+    "skin": "aurora",
+    "layout": "trophy",
+    "accent": 2
+  },
+  {
+    "id": "u188",
+    "name": "竞技·桂冠",
+    "skin": "stadium",
+    "layout": "laurel",
+    "accent": 1
+  },
+  {
+    "id": "u189",
+    "name": "霓虹·桂冠",
+    "skin": "neon",
+    "layout": "laurel",
+    "accent": 2
+  },
+  {
+    "id": "u190",
+    "name": "水墨·水晶",
+    "skin": "ink",
+    "layout": "crystal",
+    "accent": 1
+  },
+  {
+    "id": "u191",
+    "name": "酸性·水晶",
+    "skin": "acid",
+    "layout": "crystal",
+    "accent": 2
+  },
+  {
+    "id": "u192",
+    "name": "电影·棱镜",
+    "skin": "cinema",
+    "layout": "prism",
+    "accent": 1
+  },
+  {
+    "id": "u193",
+    "name": "动能·棱镜",
+    "skin": "kinetic",
+    "layout": "prism",
+    "accent": 2
+  },
+  {
+    "id": "u194",
+    "name": "极光·表盘",
+    "skin": "aurora",
+    "layout": "clock",
+    "accent": 1
+  },
+  {
+    "id": "u195",
+    "name": "全息·表盘",
+    "skin": "holo",
+    "layout": "clock",
+    "accent": 2
+  },
+  {
+    "id": "u196",
+    "name": "霓虹·沙漏",
+    "skin": "neon",
+    "layout": "hourglass",
+    "accent": 1
+  },
+  {
+    "id": "u197",
+    "name": "孔版·沙漏",
+    "skin": "riso",
+    "layout": "hourglass",
+    "accent": 2
+  },
+  {
+    "id": "u198",
+    "name": "酸性·罗盘",
+    "skin": "acid",
+    "layout": "compass",
+    "accent": 1
+  },
+  {
+    "id": "u199",
+    "name": "玻璃·罗盘",
+    "skin": "glass",
+    "layout": "compass",
+    "accent": 2
+  },
+  {
+    "id": "u200",
+    "name": "动能·路线图",
+    "skin": "kinetic",
+    "layout": "map",
+    "accent": 1
+  }
+]
